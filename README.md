@@ -7,4 +7,4 @@ WASD to move around.
 
 # Features
 
-Can view GeObj files and export them as .GLB (No textures or vertex colors yet)
+Can view GeObj files and export them as .GLB (Exporting currently doesnt support textures or vertex colors yet)
